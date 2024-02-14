@@ -1,0 +1,30 @@
+Date: 10/12/2022
+Time: 14:58
+Phone Number: +918220573168
+Message: This is a testing protocol
+--------------------
+Date: 4/1/2023
+Time: 18:7
+Phone Number: +919150576705
+Message: Hi akash perumal jarvis here.avlodan
+--------------------
+Date: 27/1/2023
+Time: 19:34
+Phone Number: +919790897992
+Message: this is a message regarding the testing protocol
+--------------------
+Date: 28/1/2023
+Time: 16:38
+Phone Number: +919443011287
+Message: hi this is a formal message
+--------------------
+Date: 28/1/2023
+Time: 19:37
+Phone Number: +917358336007
+Message: this is just a normal fake message
+--------------------
+Date: 5/4/2023
+Time: 18:12
+Phone Number: +919150576705
+Message: this is the checking message regarding the WhatsApp automation
+--------------------
